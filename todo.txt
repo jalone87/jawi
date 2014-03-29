@@ -1,5 +1,6 @@
 ## TO RUN 
-todo
+read here:
+http://theaigames.com/discussions/warlight-ai-challenge/531d912a5d203c346d8b45a4/compiling-java-source/1/show
 
 ## TEAM
 - task creation: top-down problem analisys (from higher abstract level to implementation one) and task creation (divide et impera)? 
