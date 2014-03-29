@@ -1,0 +1,35 @@
+## TO RUN 
+todo
+
+
+## OFFLINE:
+method 1:
+- give a manual priority to each spot if map is known and not variant (assumed true for first torunament, not for following)
+
+method 2:
+- locate strategic points:
+    - ones with few edges (seeing map as graph)?
+    - ones being in a bonus with all edges in that bonus but one?
+    - all edges at border?
+    - ...
+we may give more priority based on how may strategic point rules they respect.
+
+## ONLINE:
+
+- identify best target bonus considering:
+    - the more territories owned the better
+    - the less territories known owned by other the better
+    - the percentage of owned territories of a bonus
+    - the number of missing territories to complete bonus
+    - the owned strategic points
+    - the visible strategic points (and wether occupied by other)
+    - ...
+
+- strategy 
+  - (better being attacked then attack)?
+  - expansion (cannonball or spreader? depend on graph connecti)
+  
+## LOW LEVEL
+
+- algorithms and data structure? 
+- learning for offline part? 
