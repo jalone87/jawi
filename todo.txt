@@ -1,6 +1,9 @@
 ## TO RUN 
 todo
 
+## TEAM
+- task creation: top-down problem analisys (from higher abstract level to implementation one) and task creation (divide et impera)? 
+- task assignment: who doe what?
 
 ## OFFLINE:
 method 1:
